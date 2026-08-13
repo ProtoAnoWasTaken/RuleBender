@@ -1,0 +1,19 @@
+{
+    "id": "RuleBender",
+    "name": "Rule Bender",
+    "display_name": "Rule Bender",
+    "author": ["ProtoAno"],
+    "description": "Add Stakes to your Challenges.",
+    "prefix": "rb",
+    "main_file": "main.lua",
+    "priority": 2206,
+    "badge_colour": "FDA200",
+    "badge_text_colour": "4F6367",
+    "version": "0.1.0",
+    "dependencies": [
+        "Steamodded (>=1.0.0~BETA-1620a)"
+    ],
+    "conflicts": [],
+    "provides": [],
+    "dump_loc": false
+}

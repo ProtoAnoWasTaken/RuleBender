@@ -1,0 +1,24 @@
+[manifest]
+version = "1.0.0"
+priority = 2206
+
+[[patches]]
+[patches.pattern]
+target = "functions/UI_definitions.lua"
+pattern = '''
+            {
+                label = localize('b_deck'),
+                tab_definition_function = G.UIDEF.challenge_description_tab,
+                tab_definition_function_args = {_id = _id, _tab = 'Deck'}
+            }
+'''
+position = "after"
+payload = '''
+            ,
+            {
+                label = "Stake",
+                tab_definition_function = G.UIDEF.rb_challenge_stake,
+                tab_definition_function_args = {_id = _id}
+            }
+'''
+match_indent = true
