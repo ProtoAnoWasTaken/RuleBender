@@ -1,7 +1,7 @@
 ## Rule Bender — Stakes for Every Challenge
 **Rule Bender** is a Balatro mod that lets every Challenge be played at every Stake. Each Challenge remembers its own highest completed Stake, follows normal Stake-unlock rules, and can be replayed with a Challenge Backer earned from your overall progress.
 
-This mod was scripted by [ProtoAno](https://github.com/ProtoAnoWasTaken) (ProtoAnoWasTaken). It is intended to make Challenge Mode feel like a proper parallel progression track without changing what makes individual Challenges themselves interesting.
+This mod was scripted by [ProtoAno](https://github.com/ProtoAnoWasTaken) (ProtoAnoWasTaken). It's intended to make Challenges feel like a part of the overall progression track without changing what makes individual Challenges themselves interesting, or interfering with existing gameplay.
 
 ## FAQ
 > **Does this mod have any dependencies?**
