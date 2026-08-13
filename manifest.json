@@ -9,7 +9,7 @@
     "priority": 2206,
     "badge_colour": "FDA200",
     "badge_text_colour": "4F6367",
-    "version": "0.1.0",
+    "version": "1.0",
     "dependencies": [
         "Steamodded (>=1.0.0~BETA-1620a)"
     ],
